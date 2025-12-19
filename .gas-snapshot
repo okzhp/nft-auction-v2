@@ -1,0 +1,7 @@
+MyNFTTest:testInitState() (gas: 18786)
+MyNFTTest:testMintNft() (gas: 121359)
+MyNFTTest:testTransfer() (gas: 130902)
+NftAuctionV2Test:test_bid_ether() (gas: 384315)
+NftAuctionV2Test:test_bid_mix() (gas: 937347)
+NftAuctionV2Test:test_bid_usdc() (gas: 819698)
+NftAuctionV2Test:test_createAuction() (gas: 189682)
